@@ -2,7 +2,7 @@
     <div class="weather">
         <img src="img/rain.png" class="weather__icon">
         <h1 class="temp">22°C</h1>
-        <h2 class="city">İzmir</h2>
+        <h2 class="city">Manisa</h2>
     </div>
 </template>
 
