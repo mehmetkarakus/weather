@@ -1,6 +1,6 @@
 <template>
     <div class="weather">
-        <img src="img/rain.png" class="weather__icon">
+        <img src="img/clear.png" class="weather__icon">
         <h1 class="temp">22°C</h1>
         <h2 class="city">Manisa</h2>
     </div>
